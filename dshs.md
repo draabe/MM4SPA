@@ -4,4 +4,4 @@ title: DSHS
 subtitle: Deutsche Sporthochschule Köln
 ---
 
-Here comes a description of the DSHS
+Here will be a description of the DSHS
