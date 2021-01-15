@@ -20,16 +20,17 @@ author: MM4SPA
 
 navbar-links:
   Homesite: ""
+  About the Project: "aboutTheProject"
   Project Partner:
     - DSHS: "dshs"
     - L3S: "l3s"
     - Kinexon: "kinexon"
   Projects: 
     - Feature extraction: "projects/featureextraction"
-  Hackathon & Congress:
-    - Hackathon: "hackathon"
-    - Congress: "congress"
-  About Us: "aboutme"
+  #Hackathon & Congress:
+   # - Hackathon: "hackathon"
+    #- Congress: "congress"
+  
   
 
   #Resources:
