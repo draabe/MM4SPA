@@ -2,7 +2,7 @@
 layout: page
 title: L3S Research Center
 subtitle: Leibniz University Hannover
-cover-img: /assets/img/L3S2.png
+cover-img: /assets/img/L3S2.PNG
 ---
 **Visual Analytics Research Group**
 
