@@ -2,7 +2,9 @@
 layout: page
 title: DSHS
 subtitle: German Sport University Cologne
+cover-img: /assets/img/DSHS_Luftbild.jpg
 ---
+**Institute for Training Science and Sports Informatics**
 
 In the field of sports informatics and sports game research, issues related to Big Data in sports (especially professional soccer) are addressed, especially in the area of modeling, pattern recognition and simulation of team games. This includes developments in data analysis and data visualization as well as the application of modern database systems (Relational and NoSQL). 
 
