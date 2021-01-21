@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sporting success thanks to artificial intelligence?
-cover-img: /assets/img/mm4spa-picture6.png
+cover-img: /assets/img/mm4spa-picture7.png
 subtitle: A cooperative project between the German Sport University Cologne, the L3S Research Center at the Leibniz University Hannover and KINEXON 
 thumbnail-img: /assets/img/mm4spa-picture6.png
 share-img: /assets/img/mm4spa-picture6.png

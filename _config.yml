@@ -25,8 +25,8 @@ navbar-links:
     - DSHS: "dshs"
     - L3S: "l3s"
     - Kinexon: "kinexon"
-  Projects: 
-    - Feature extraction: "projects/featureextraction"
+  #Projects: 
+   # - Feature extraction: "projects/featureextraction"
   #Hackathon & Congress:
    # - Hackathon: "hackathon"
     #- Congress: "congress"
@@ -58,9 +58,9 @@ title-img: "/assets/img/mm4spa-icon.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "m.wohlan@dshs-koeln.de"
-  facebook: facebook_username
-  github: github_username
-  twitter: twitter_username
+  #facebook: facebook_username
+  #github: github_username
+  #twitter: twitter_username
 
 #  youtube: c/daattali
 #  reddit: yourname
