@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Sporting success thanks to artificial intelligence?
+title: "Official press release: Sporting success thanks to artificial intelligence?"
 cover-img: /assets/img/mm4spa-picture7.png
 subtitle: A cooperative project between the German Sport University Cologne, the L3S Research Center at the Leibniz University Hannover and KINEXON 
 thumbnail-img: /assets/img/mm4spa-picture6.png
 share-img: /assets/img/mm4spa-picture6.png
 ---
-
 The ***Institute for Training Science and Sports Informatics at the German Sport University Cologne*** and the ***L3S Research Center at the Leibniz University Hannover*** have successfully obtained project funding from the German Federal Ministry of Education and Research (BMBF). The MM4Sports project is a transfer project in the field of sports data analysis, using data from soccer, basketball and handball.
 The project was positively reviewed under the funding line "Application of Artificial Intelligence Methods in Practice" and will be funded with more than 800,000 euros over a two-year project period (2020-2022). With this funding line, the BMBF supports projects that aim to transfer innovative research results from the field of artificial intelligence into practice.
+
+![mm4spa-picture1](../assets/img/mm4spa-picture6.png){: .mx-auto.d-block :}
 
 Another project partner is the Munich-based technology company ***KINEXON***, an expert in the field of real-time collection and processing of sports performance data, with which the Institute of Training Science and Sports Informatics has been collaborating for two years. As part of this cooperation, the institute is one of the few research sites in the world where position data can be collected in indoor and outdoor game sports. "Based on the existing position data solution of KINEXON, an automated merging of position and video data in sports games is missing so far, which is important for basic and application-oriented research projects in the field of the future market Sports Analytics," holds Univ.-Prof. Dr. Daniel Memmert, managing director of the Institute of Training Science and Sports Informatics at the German Sport University Cologne. He and his team have been working for years on the analysis (e.g. with SOCCER©) and simulation of complex position data (so-called Big Data) and have developed and validated theoretical framework models for this (cf. DFG project "e-Science").
 
