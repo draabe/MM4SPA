@@ -6,8 +6,8 @@ subtitle: A cooperative project between the German Sport University Cologne, the
 thumbnail-img: /assets/img/mm4spa-picture6.png
 share-img: /assets/img/mm4spa-picture6.png
 ---
-The ***Institute for Training Science and Sports Informatics at the German Sport University Cologne*** and the ***L3S Research Center at the Leibniz University Hannover*** have successfully obtained project funding from the German Federal Ministry of Education and Research (BMBF). The MM4Sports project is a transfer project in the field of sports data analysis, using data from soccer, basketball and handball.
-The project was positively reviewed under the funding line "Application of Artificial Intelligence Methods in Practice" and will be funded with more than 800,000 euros over a two-year project period (2020-2022). With this funding line, the BMBF supports projects that aim to transfer innovative research results from the field of artificial intelligence into practice.
+The ***Institute for Exercise Science and Sport Informatics at the German Sport University Cologne*** and the ***L3S Research Center at the Leibniz University Hannover*** have successfully aquired project funding from the German Federal Ministry of Education and Research (BMBF). The MM4Sports project is a transfer project in the field of sports data analysis, using data from soccer, basketball and handball.
+The project was accepted under the funding line "Application of Artificial Intelligence Methods in Practice" and will be funded with more than 800.000 euros over a two-year project period (2020-2022). With this funding line, the BMBF supports projects that aim to transfer innovative research results from the field of artificial intelligence into practice.
 
 ![mm4spa-picture1](../assets/img/mm4spa-picture6.png){: .mx-auto.d-block :}
 
