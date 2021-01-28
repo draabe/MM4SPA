@@ -19,9 +19,9 @@ author: MM4SPA
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Homesite: ""
-  About the Project: "aboutTheProject"
-  Project Partner:
+  Home: ""
+  Project: "aboutTheProject"
+  Partner:
     - DSHS: "dshs"
     - L3S: "l3s"
     - Kinexon: "kinexon"
