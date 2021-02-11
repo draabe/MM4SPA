@@ -1,10 +1,11 @@
 ---
 layout: page
-title: L3S Research Center
-subtitle: Leibniz University Hannover
-cover-img: /assets/img/L3S2.PNG
+title:
+subtitle: 
+cover-img: /assets/img/L3S.PNG
 ---
-**Visual Analytics Research Group**
+<center><a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><h2> Visual Analystics Research Group </h2></a>
+</center>
 
 With a university professorship on Visual Analytics, the Leibniz information centre for science and technology university library (TIB) addresses the research of visual analysis, search and presentation methods. Within the framework of the professorship, diverse and challenging research questions of visual analytics are pursued in the areas of digital libraries, research data as well as media archives and databases. The extensive and heterogeneous data stock of the TIB and the needs of the users also result in application-related research questions.
 

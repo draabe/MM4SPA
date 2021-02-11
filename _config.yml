@@ -25,6 +25,8 @@ navbar-links:
     - DSHS: "dshs"
     - L3S: "l3s"
     - Kinexon: "kinexon"
+  Team: "team"
+
   #Projects: 
    # - Feature extraction: "projects/featureextraction"
   #Hackathon & Congress:
