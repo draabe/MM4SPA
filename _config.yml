@@ -25,7 +25,7 @@ navbar-links:
     - DSHS: "dshs"
     - L3S: "l3s"
     - Kinexon: "kinexon"
-  Team: "team"
+ # Team: "team"
 
   #Projects: 
    # - Feature extraction: "projects/featureextraction"
