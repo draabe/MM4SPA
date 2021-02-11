@@ -1,7 +1,21 @@
 ---
 layout: page
-title: Team
+title:  Team
 subtitle:
 ---
-
-Here will be a list of all team members.
+<center>
+	<table>
+	<tr>
+		<th>Daniel Memmert</th>
+		<th>Ralph Ewerth</th>
+		<th>Dominik Raabe</th>
+		
+	</tr>
+	<tr>
+		<th><img src="/assets/img/logo-kinexon.jpg"></th>
+		<th>Ralph Ewerth</th>
+		<th>Dominik Raabe</th>
+		
+	</tr>
+</table>
+</center>
