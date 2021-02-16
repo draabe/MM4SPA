@@ -4,18 +4,21 @@ title:
 subtitle: 
 cover-img: /assets/img/L3S.PNG
 ---
-<center><a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"><h2> Visual Analystics Research Group </h2></a>
+<center><a href="http://www.l3s.de/en" style="color:black"><h2> Visual Analystics Research Group </h2></a>
 </center>
 
-With a university professorship on Visual Analytics, the Leibniz information centre for science and technology university library (TIB) addresses the research of visual analysis, search and presentation methods. Within the framework of the professorship, diverse and challenging research questions of visual analytics are pursued in the areas of digital libraries, research data as well as media archives and databases. The extensive and heterogeneous data stock of the TIB and the needs of the users also result in application-related research questions.
+The <a href="http://www.l3s.de/en" style="color:black"><i> L3S </i></a> is a research center at the Leibniz University of Hannover and investigates the effects of digitization to derive options for action, recommendations, and innovation strategies for business, politics, and society.
 
-The main research areas are Visual Analytics, Information and Multimedia Retrieval, and Search as Learning:
+The Visual Analytics Research Group is hosted at TIB – Leibniz Information Centre for Science and part of the Joint Lab of TIB/L3S. Prof. Ralph Ewerth is head of the Visual Analytics Research Group and holds a professorship at the Leibniz University Hannover.
 
-- Semantic (automatic) annotation of visual data (images, video, 3D, etc.).
-- Automatic understanding of multimodal information
-- Digital library as a virtual place of learning and study
-- Informal learning on the web with multimedia data
-- Deep learning and adaptive machine learning techniques
+The group researches data analytics and visualization methods for automatic annotation, interpretation and exploration of multimodal information. The main research areas are multimodal/multimedia information retrieval, machine learning, and visual analytics focusing on:
+
+- Semantic (automatic) annotation of multimodal data (images, video, 3D, etc.).
+- Automatic interpretation of multimodal information
+- Deep learning and machine learning techniques
+- Digital library as a virtual learning environment
+- Informal learning with multimedia data
 - Interactive exploration of media archives
 - Usability aspects
+
 
